@@ -41,7 +41,7 @@
   "admin.curation-tasks.header": "Karbantartási feladatok",
   
   // "admin.registries.bitstream-formats.breadcrumbs": "Format registry",
-  "admin.registries.bitstream-formats.breadcrumbs": "Fájlformátumok jegyzéke",
+  "admin.registries.bitstream-formats.breadcrumbs": "Fájlformátumok listája",
   
   // "admin.registries.bitstream-formats.create.breadcrumbs": "Bitstream format",
   "admin.registries.bitstream-formats.create.breadcrumbs": "Fájlformátum",
@@ -56,7 +56,7 @@
   "admin.registries.bitstream-formats.create.head": "Fájlformátum létrehozása",
   
   // "admin.registries.bitstream-formats.create.new": "Add a new bitstream format",
-  "admin.registries.bitstream-formats.create.new": "Fájlformátum hozzáadása.",
+  "admin.registries.bitstream-formats.create.new": "Fájlformátum hozzáadása",
   
   // "admin.registries.bitstream-formats.create.success.content": "The new bitstream format was successfully created.",
   "admin.registries.bitstream-formats.create.success.content": "Az új fájlformátum sikeresen létrehozva.",
@@ -65,19 +65,19 @@
   "admin.registries.bitstream-formats.create.success.head": "Siker",
   
   // "admin.registries.bitstream-formats.delete.failure.amount": "Failed to remove {{ amount }} format(s)",
-  "admin.registries.bitstream-formats.delete.failure.amount": "{{ amount }} db. formátum törlése nem sikerült",
+  "admin.registries.bitstream-formats.delete.failure.amount": "{{ amount }} formátum törlése nem sikerült.",
   
   // "admin.registries.bitstream-formats.delete.failure.head": "Failure",
   "admin.registries.bitstream-formats.delete.failure.head": "Hiba",
   
   // "admin.registries.bitstream-formats.delete.success.amount": "Successfully removed {{ amount }} format(s)",
-  "admin.registries.bitstream-formats.delete.success.amount": "{{ amount }} formátum törölve",
+  "admin.registries.bitstream-formats.delete.success.amount": "{{ amount }} formátum sikeresen törölve.",
   
   // "admin.registries.bitstream-formats.delete.success.head": "Success",
   "admin.registries.bitstream-formats.delete.success.head": "Siker",
   
   // "admin.registries.bitstream-formats.description": "This list of bitstream formats provides information about known formats and their support level.",
-  "admin.registries.bitstream-formats.description": "Ez a fájlformátum lista ismert formátumokról és azok támogatásáról nyújt információt.",
+  "admin.registries.bitstream-formats.description": "Ez a fájlformátum lista az ismert formátumokról és azok támogatásáról nyújt információt.",
   
   // "admin.registries.bitstream-formats.edit.breadcrumbs": "Bitstream format",
   "admin.registries.bitstream-formats.edit.breadcrumbs": "Fájlformátum",
@@ -137,16 +137,16 @@
   "admin.registries.bitstream-formats.edit.supportLevel.label": "Támogatási szint",
   
   // "admin.registries.bitstream-formats.head": "Bitstream Format Registry",
-  "admin.registries.bitstream-formats.head": "Fájlformátum jegyzék",
+  "admin.registries.bitstream-formats.head": "Fájlformátum lista",
   
   // "admin.registries.bitstream-formats.no-items": "No bitstream formats to show.",
   "admin.registries.bitstream-formats.no-items": "Nem jeleníthető meg fájlformátum.",
   
   // "admin.registries.bitstream-formats.table.delete": "Delete selected",
-  "admin.registries.bitstream-formats.table.delete": "Kiválasztottak törlése",
+  "admin.registries.bitstream-formats.table.delete": "Kijelöltek törlése",
   
   // "admin.registries.bitstream-formats.table.deselect-all": "Deselect all",
-  "admin.registries.bitstream-formats.table.deselect-all": "Az összes kiválasztás megszüntetése",
+  "admin.registries.bitstream-formats.table.deselect-all": "Az összes kijelölés megszüntetése",
   
   // "admin.registries.bitstream-formats.table.internal": "internal",
   "admin.registries.bitstream-formats.table.internal": "rejtett",
@@ -173,15 +173,15 @@
   "admin.registries.bitstream-formats.table.supportLevel.head": "Támogatási szint",
   
   // "admin.registries.bitstream-formats.title": "DSpace Angular :: Bitstream Format Registry",
-  "admin.registries.bitstream-formats.title": "DSpace Angular :: Fájlformátum jegyzék",
+  "admin.registries.bitstream-formats.title": "DSpace Angular :: Fájlformátum lista",
   
   
   
   // "admin.registries.metadata.breadcrumbs": "Metadata registry",
-  "admin.registries.metadata.breadcrumbs": "Metaadat jegyzék",
+  "admin.registries.metadata.breadcrumbs": "Metaadat nyilvántartás",
   
   // "admin.registries.metadata.description": "The metadata registry maintains a list of all metadata fields available in the repository. These fields may be divided amongst multiple schemas. However, DSpace requires the qualified Dublin Core schema.",
-  "admin.registries.metadata.description": "A metaadat jegyzék tartalmazza a repozitóriumban fellelhető valamennyi metaadat mező listáját. Ezek a mezők több sémára oszthatók, azonban a DSpace-nek a minősített Dublin Core sémára szüksége van mindenképpen.",
+  "admin.registries.metadata.description": "A metaadat nyilvántartás tartalmazza a repozitóriumban fellelhető valamennyi metaadat mező listáját. Ezek a mezők több sémára oszthatók, azonban a DSpace-nek a minősített Dublin Core sémára szüksége van mindenképpen.",
   
   // "admin.registries.metadata.form.create": "Create metadata schema",
   "admin.registries.metadata.form.create": "Metaadat séma létrehozása",
@@ -196,13 +196,13 @@
   "admin.registries.metadata.form.namespace": "Névtér",
   
   // "admin.registries.metadata.head": "Metadata Registry",
-  "admin.registries.metadata.head": "Metaadat jegyzék",
+  "admin.registries.metadata.head": "Metaadat nyilvántartás",
   
   // "admin.registries.metadata.schemas.no-items": "No metadata schemas to show.",
   "admin.registries.metadata.schemas.no-items": "Nincs elérhető metaadat séma.",
   
   // "admin.registries.metadata.schemas.table.delete": "Delete selected",
-  "admin.registries.metadata.schemas.table.delete": "Kiválasztottak törlése",
+  "admin.registries.metadata.schemas.table.delete": "Kijelöltek törlése",
   
   // "admin.registries.metadata.schemas.table.id": "ID",
   "admin.registries.metadata.schemas.table.id": "ID",
@@ -214,7 +214,7 @@
   "admin.registries.metadata.schemas.table.namespace": "Névtér",
   
   // "admin.registries.metadata.title": "DSpace Angular :: Metadata Registry",
-  "admin.registries.metadata.title": "DSpace Angular :: Metaadat jegyzék",
+  "admin.registries.metadata.title": "DSpace Angular :: Metaadat nyilvántartás",
   
   
   
@@ -222,22 +222,22 @@
   "admin.registries.schema.breadcrumbs": "Metaadat séma",
   
   // "admin.registries.schema.description": "This is the metadata schema for \"{{namespace}}\".",
-  "admin.registries.schema.description": "Ez a metaadat séma a következőhöz: \"{{namespace}}\".",
+  "admin.registries.schema.description": "A metaadat séma forása: \"{{namespace}}\".",
   
   // "admin.registries.schema.fields.head": "Schema metadata fields",
-  "admin.registries.schema.fields.head": "Séma metaadat mezők",
+  "admin.registries.schema.fields.head": "A séma metaadat mezői",
   
   // "admin.registries.schema.fields.no-items": "No metadata fields to show.",
-  "admin.registries.schema.fields.no-items": "Nincs elérhető metaadat mező.",
+  "admin.registries.schema.fields.no-items": "Nincs megjeleníthető metaadat mező.",
   
   // "admin.registries.schema.fields.table.delete": "Delete selected",
-  "admin.registries.schema.fields.table.delete": "Kiválasztottak törlése",
+  "admin.registries.schema.fields.table.delete": "Kijelöltek törlése",
   
   // "admin.registries.schema.fields.table.field": "Field",
   "admin.registries.schema.fields.table.field": "Mező",
   
   // "admin.registries.schema.fields.table.scopenote": "Scope Note",
-  "admin.registries.schema.fields.table.scopenote": "Területi megjegyzés",
+  "admin.registries.schema.fields.table.scopenote": "Használatra vonatkozó megjegyzés",
   
   // "admin.registries.schema.form.create": "Create metadata field",
   "admin.registries.schema.form.create": "Metaadat mező létrehozása",
@@ -252,37 +252,37 @@
   "admin.registries.schema.form.qualifier": "Minősítő",
   
   // "admin.registries.schema.form.scopenote": "Scope Note",
-  "admin.registries.schema.form.scopenote": "Területi megjegyzés",
+  "admin.registries.schema.form.scopenote": "Használatra vonatkozó megjegyzés",
   
   // "admin.registries.schema.head": "Metadata Schema",
   "admin.registries.schema.head": "Metaadat séma",
   
   // "admin.registries.schema.notification.created": "Successfully created metadata schema \"{{prefix}}\"",
-  "admin.registries.schema.notification.created": "A metaadat séma \"{{prefix}}\" létrehozása sikerült",
+  "admin.registries.schema.notification.created": "A(z) \"{{prefix}}\" metaadat séma létrehozása sikerült.",
   
   // "admin.registries.schema.notification.deleted.failure": "Failed to delete {{amount}} metadata schemas",
-  "admin.registries.schema.notification.deleted.failure": "{{amount}} db. metaadat séma törlése nem sikerült",
+  "admin.registries.schema.notification.deleted.failure": "{{amount}} metaadat séma törlése nem sikerült.",
   
   // "admin.registries.schema.notification.deleted.success": "Successfully deleted {{amount}} metadata schemas",
-  "admin.registries.schema.notification.deleted.success": "{{amount}} db. metaadat séma törlése sikerült",
+  "admin.registries.schema.notification.deleted.success": "{{amount}} metaadat séma törlése sikerült.",
   
   // "admin.registries.schema.notification.edited": "Successfully edited metadata schema \"{{prefix}}\"",
-  "admin.registries.schema.notification.edited": "A metaadat séma \"{{prefix}}\" szerkesztése sikerült",
+  "admin.registries.schema.notification.edited": "A(z) \"{{prefix}}\" metaadat séma szerkesztése sikerült.",
   
   // "admin.registries.schema.notification.failure": "Error",
   "admin.registries.schema.notification.failure": "Hiba",
   
   // "admin.registries.schema.notification.field.created": "Successfully created metadata field \"{{field}}\"",
-  "admin.registries.schema.notification.field.created": "A metaadat mező \"{{field}}\" sikeresen létrehozva",
+  "admin.registries.schema.notification.field.created": "A(z) \"{{field}}\" metaadat mező sikeresen létrehozva.",
   
   // "admin.registries.schema.notification.field.deleted.failure": "Failed to delete {{amount}} metadata fields",
-  "admin.registries.schema.notification.field.deleted.failure": "A {{amount}} db. metaadat mező törlése nem sikerült",
+  "admin.registries.schema.notification.field.deleted.failure": "{{amount}} metaadat mező törlése nem sikerült.",
   
   // "admin.registries.schema.notification.field.deleted.success": "Successfully deleted {{amount}} metadata fields",
-  "admin.registries.schema.notification.field.deleted.success": "A {{amount}} db. metaadat mezők törlése sikerült",
+  "admin.registries.schema.notification.field.deleted.success": "{{amount}} metaadat mező törlése sikerült.",
   
   // "admin.registries.schema.notification.field.edited": "Successfully edited metadata field \"{{field}}\"",
-  "admin.registries.schema.notification.field.edited": "A metaadat mező \"{{field}}\" szerkesztése sikerült",
+  "admin.registries.schema.notification.field.edited": "A(z) \"{{field}}\" metaadat mező szerkesztése sikerült.",
   
   // "admin.registries.schema.notification.success": "Success",
   "admin.registries.schema.notification.success": "Sikeres",
@@ -291,7 +291,7 @@
   "admin.registries.schema.return": "Vissza",
   
   // "admin.registries.schema.title": "DSpace Angular :: Metadata Schema Registry",
-  "admin.registries.schema.title": "DSpace Angular :: Metaadat Séma jegyzék",
+  "admin.registries.schema.title": "DSpace Angular :: Metaadat Séma nyilvántartás",
   
   
   
@@ -1214,7 +1214,7 @@
   
   
   // "collection.select.confirm": "Confirm selected",
-  "collection.select.confirm": "Kiválasztás megerősítése",
+  "collection.select.confirm": "Kijelölés megerősítése",
   
   // "collection.select.empty": "No collections to show",
   "collection.select.empty": "Nincs megjeleníthető gyűjtemény",
